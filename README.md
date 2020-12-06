@@ -10,7 +10,7 @@ Clone repository
 
 ```shell
 git clone git@github.com:/Mo1far/elit_linker.git
-cd news-api
+cd elit_linker
 ```
 
 Install dependencies. Poetry will create venv for you
